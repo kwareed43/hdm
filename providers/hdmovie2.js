@@ -190,11 +190,11 @@ function resolveMolop(playerUrl) {
       return null;
     }
 
-    var streamUrl =
-      MOLOP_ORIGIN +
-      '/m3u8/1/' +
-      hashMatch[1] +
-      '/master.m3u8?s=1&cache=1';
+var streamUrl =
+  MOLOP_ORIGIN +
+  '/m3u8/1/' +
+  hashMatch[1] +
+  '/master.m3u8';
 
     return {
       url: streamUrl,
