@@ -279,7 +279,7 @@ function getStreams(tmdbId, mediaType, season, episode) {
             name: 'HDMovie2',
             title: apiResult.title,
             url: stream.url,
-            quality: '1080p',
+            quality: 'Multi',
             headers: stream.headers
           }
         ];
