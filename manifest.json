@@ -1,0 +1,25 @@
+[
+  {
+    "id": "hdmovie2-direct",
+    "name": "HDMovie2 Direct",
+    "description": "Fast HDMovie2 provider using the WatchKar direct API with HDM2 and Molop resolution.",
+    "version": "1.0.0",
+    "author": "DooFlix",
+    "supportedTypes": [
+      "movie",
+      "tv"
+    ],
+    "filename": "providers/hdmovie2.js",
+    "enabled": true,
+    "logo": "https://i.postimg.cc/mryRTf0R/hdhub4u.png",
+    "contentLanguage": [
+      "hi"
+    ],
+    "formats": [
+      "m3u8"
+    ],
+    "limited": false,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
