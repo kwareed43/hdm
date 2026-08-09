@@ -1,6 +1,6 @@
 {
-  "name": "HDMovie2 Direct Nuvio",
-  "version": "1.0.0",
+  "name": "HDMovie2 Movies",
+  "version": "1.0.1",
   "scrapers": [
     {
       "id": "hdmovie2",
